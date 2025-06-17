@@ -5,7 +5,7 @@ accountCity = "Kolkata"  // ase vi variable declare kar sakte ho
 let accountState;
 
 accountEmail = 2
-accountCity = "Bhupal"
+accountCity = "Bhopal"
 console.log(accountEmail);
 console.log(accountId);
 console.table([accountId , accountEmail , accountCity , accountPassword , accountState]);
